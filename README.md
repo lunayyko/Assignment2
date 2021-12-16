@@ -270,10 +270,8 @@
 
 ## TIL정리 (Blog)
 - 김태우 : https://velog.io/@burnkim61/프리온보딩-과제-2
-- 고유영 :
+- 고유영 : https://lunayyko.github.io/wecode/2021/11/08/wantedxwecode-2-mafiacompany/
 - 박지원 : https://yesjiwon5304.tistory.com/32
-- 최신혁 :
-- 박세원 :
 
 # Reference
 이 프로젝트는 원티드x위코드 백엔드 프리온보딩 과제 일환으로 마피아컴퍼니에서 출제한 과제를 기반으로 만들었습니다.
